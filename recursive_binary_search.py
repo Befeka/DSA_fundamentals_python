@@ -26,5 +26,6 @@ def main():
 
     result = recursive_binary_search(numbers,target)
     verify(result)
+    
 if __name__ == "__main__":
     main()
